@@ -825,9 +825,10 @@ During implementation, I encountered some challenges that helped me understand t
 ## Video Demonstrations
 
 - **CI Pipeline Demonstration:**
+<video controls src="videos/CD demonstration.mp4" title="Title"></video>
 
 - **CD / Argo CD Demonstration:**
-
+<video controls src="videos/CI demonstration.mp4" title="Title"></video>
 
 # Key Learnings
 
