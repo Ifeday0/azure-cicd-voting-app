@@ -826,11 +826,11 @@ During implementation, I encountered some challenges that helped me understand t
 
 - **CI Pipeline Demonstration:**
 
-https://github.com/Ifeday0/azure-voting-app-cicd-project/blob/main/videos/CI%20demonstration.mp4
+https://drive.google.com/file/d/1KbcLWKKu-UtBJmRZkzaCFPhgolBWk-3Z/view?usp=sharing
 
 - **CD / Argo CD Demonstration:**
 
-https://github.com/Ifeday0/azure-voting-app-cicd-project/blob/main/videos/CD-demonstration.mp4
+https://drive.google.com/file/d/12c6skAM35r5gWspNNXbHNMSNI4qOpL3K/view?usp=sharing
 
 # Key Learnings
 
