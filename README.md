@@ -744,7 +744,6 @@ kubectl get services
 ```
 
 Check the deployments:
-
 ```bash
 kubectl get deployments
 ```
