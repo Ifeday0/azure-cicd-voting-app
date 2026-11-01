@@ -826,11 +826,11 @@ During implementation, I encountered some challenges that helped me understand t
 
 - **CI Pipeline Demonstration:**
 
-https://drive.google.com/file/d/1KbcLWKKu-UtBJmRZkzaCFPhgolBWk-3Z/view?usp=sharing
+https://github.com/user-attachments/assets/6dc39866-63c5-4936-8e17-bfe0caf6ee36
 
 - **CD / Argo CD Demonstration:**
 
-https://drive.google.com/file/d/12c6skAM35r5gWspNNXbHNMSNI4qOpL3K/view?usp=sharing
+https://github.com/user-attachments/assets/18cfb36b-f175-4e77-b916-708a669f53b1
 
 # Key Learnings
 
