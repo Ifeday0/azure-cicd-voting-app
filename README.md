@@ -825,10 +825,12 @@ During implementation, I encountered some challenges that helped me understand t
 ## Video Demonstrations
 
 - **CI Pipeline Demonstration:**
-<video controls src="videos/CD demonstration.mp4" title="Title"></video>
+
+https://github.com/Ifeday0/azure-voting-app-cicd-project/blob/main/videos/CI%20demonstration.mp4
 
 - **CD / Argo CD Demonstration:**
-<video controls src="videos/CI demonstration.mp4" title="Title"></video>
+
+https://github.com/Ifeday0/azure-voting-app-cicd-project/blob/main/videos/CD-demonstration.mp4
 
 # Key Learnings
 
